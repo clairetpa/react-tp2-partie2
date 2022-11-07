@@ -1,0 +1,46 @@
+{
+  "produits": [
+    {
+      "id": 1,
+      "nom": "SESAME2",
+      "description": "Tasse blanche en grés",
+      "prix": "7.25 $",
+      "categorie": "Tasses a café et thé"
+    },
+    {
+      "id": 2,
+      "nom": "URBAN",
+      "description": "Ensemble de 12 pieces a vaisselle bleu ",
+      "prix": "115 $",
+      "categorie": "Ensembles a vaisselle"
+    },
+    {
+      "id": 3,
+      "nom": "AUTUMN GLOW",
+      "description": "Nappe multicolore sur fond gris",
+      "prix": "78 $",
+      "categorie": "Linge de table"
+    },
+    {
+      "id": 4,
+      "nom": "ALLOVER BIRDS",
+      "description": "Tasse multicolore sur fond blanc",
+      "prix": "8.75 $",
+      "categorie": "Tasses a café et thé"
+    },
+    {
+      "id": 5,
+      "nom": "GOURMET",
+      "description": "Ensemble de 4 assiettes a dessert grises",
+      "prix": "20.50 $",
+      "categorie": "Ensembles a vaisselle"
+    },
+    {
+      "id": 6,
+      "nom": "BROADWAY",
+      "description": "Ensemble de 4 napperons noirs",
+      "prix": "25.00 $",
+      "categorie": "Linge de table"
+    }
+  ]
+}

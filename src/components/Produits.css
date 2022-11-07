@@ -1,0 +1,13 @@
+.space-around{
+    display: flex;
+    row-gap: 30px;
+}
+
+.presentation-title-style{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color:#545454;
+}
+
+
